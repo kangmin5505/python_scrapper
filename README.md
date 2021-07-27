@@ -1,4 +1,5 @@
-# python scrapper clone coding(2021.07)
+# python scrapper clone coding(2021.07) - 2주 과정
+
 강의 : <a href="https://nomadcoders.co/python-for-beginners">Nomadcoders</a>
 <p>일자리 스크랩핑<p/>
 <p>사이트 : 
